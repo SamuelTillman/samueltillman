@@ -1,4 +1,4 @@
-# Sammy [Last Name]
+# Samuel Tillman
 
 US Army Veteran | Cloud | DevOps | Site Reliability
 
@@ -43,7 +43,7 @@ Python, PowerShell, Bash, HTML
 ### Staff Site Reliability Engineer
 **National Basketball Association** | Nov 2022 - Present
 
-Responsible for ensuring the reliability, availability, and performance of NBA cloud infrastructure, websites, and streaming services hosted across Azure and AWS. I manage cloud infrastructure, optimize application performance, and implement automation to ensure seamless user experiences. I proactively monitor system health, resolve incidents, and collaborate with other teams to improve scalability and fault tolerance. I participate in efforts to enhance system observability, minimizing downtime and maintaining 24/7 operational uptime for critical services.
+Responsible for ensuring the reliability, availability, and performance of NBA cloud infrastructure, websites, and streaming services primarily hosted/running in AWS. I manage cloud infrastructure, optimize application performance, and implement automation to ensure seamless user experiences. I proactively monitor system health, resolve incidents, and collaborate with other teams to improve scalability and fault tolerance. I participate in efforts to enhance system observability, minimizing downtime and maintaining 24/7 operational uptime for critical services.
 
 **Key Accomplishments:**
 - Migration of on-prem DNS to Cloud to Akamai Edge DNS
