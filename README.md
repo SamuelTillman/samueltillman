@@ -1,6 +1,6 @@
 # Sammy - Staff Site Reliability Engineer
 
-Cloud SRE at the NBA | AWS Infrastructure & DevOps | 20+ Years in Technology
+Staff Site Reliability Engineer @ NBA 🏀 | Disabled US Army Vet 🪖 | Infrastructure & Operations | Not A Programmer/Developer/Software Engineer | Professional Feather Ruffler 😏 | All opinions are my own.
 
 ## About Me
 
