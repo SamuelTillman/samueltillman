@@ -1,34 +1,42 @@
-# Yo! I'm Sammy 👋
+# Sammy - Staff Site Reliability Engineer
 
-I'm a Staff Site Reliability Engineer at the National Basketball Association (NBA) specializing in Cloud Infrastructure & Operations.
+Cloud SRE at the NBA | AWS Infrastructure & DevOps | 20+ Years in Technology
 
-## What I Do
+## About Me
 
-I build and maintain cloud infrastructure solutions at scale. 
+Staff Site Reliability Engineer specializing in AWS cloud infrastructure, Infrastructure as Code, and enterprise-scale DevOps automation. Currently architecting and implementing large-scale cloud migrations and multi-account AWS environments at the NBA.
 
-## Tech I Work With
+Veteran with extensive experience spanning infrastructure evolution from early virtualization to modern cloud-native architectures.
+
+## Technical Expertise
 
 **Cloud & Infrastructure**
-- AWS, Azure and GCP
-- Terraform for IaC
-- Docker &  Kubernetes
-- Linux (RHEL, Ubuntu)
+- AWS (Compute, Storage, Databases, Network & Content Delivery, Security & Identity, Management & Governance)
+- Multi-account Architecture
+- Infrastructure as Code (Terraform, CloudFormation)
+- Container Orchestration & Serverless Architectures
 
 **DevOps & Automation**
-- CI/CD pipelines (Github Actions, Bitbucket Pipelines, Azure DevOps)
-- CloudFormation & StackSets
-- Secrets Management
-- Way too much YAML
+- CI/CD pipelines (GitHub Actions, Bitbucket Pipelines, Azure DevOps, etc.)
+- Configuration Management & Patch Automation
+- Security Compliance & Service Control Policies
+- Secrets Management (AWS Secrets Manager, Hashicorp Vault)
 
-**Currently Learning**
-- Data Engineering
-- AI/ML tooling
-- Probably more AWS services I didn't know existed
+**Core Technologies**
+- Linux Systems Administration (RHEL, Ubuntu, etc.)
+- Networking & Security
+- Version control (GitHub, Bitbucket, Azure DevOps, etc.)
+- Database Management & Migrations
 
-## Random Stuff
+## Current Focus
 
-- US Army Veteran 🇺🇸
-- Big outdoors guy
-- Working on a podcast
+- Leading MediaCentral WordPress migration to modern ECS/Fargate architecture
+- Enterprise AWS Infrastructure Management & Optimization
+- Expanding into Data Engineering, AI, and ML Operations
+- Building Scalable, Maintainable, Highly Available, and Secure Cloud Infrastructure Solutions
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samueltillman/)
 
 ---
