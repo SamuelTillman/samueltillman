@@ -1,10 +1,10 @@
-# Sammy - Staff Site Reliability Engineer
+# Samuel Tillman - Staff Site Reliability Engineer
 
 Staff Site Reliability Engineer @ NBA 🏀 | Disabled US Army Vet 🪖 | Infrastructure & Operations | Not A Programmer/Developer/Software Engineer | Professional Feather Ruffler 😏 | All opinions are my own.
 
 ## About Me
 
-Staff Site Reliability Engineer specializing in AWS cloud infrastructure, Infrastructure as Code, and enterprise-scale DevOps automation. Currently architecting and implementing large-scale cloud migrations and multi-account AWS environments at the NBA.
+Hi, I'm Sam, a Staff Site Reliability Engineer specializing in AWS cloud infrastructure, Infrastructure as Code, and enterprise-scale DevOps automation. Currently architecting and implementing large-scale cloud migrations and multi-account AWS environments at the NBA.
 
 Veteran with extensive experience spanning infrastructure evolution from early virtualization to modern cloud-native architectures.
 
